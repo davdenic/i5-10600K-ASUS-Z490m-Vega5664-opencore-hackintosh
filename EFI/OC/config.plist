@@ -14,6 +14,14 @@
 				<key>Path</key>
 				<string>SSDT-Basic.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-Audio.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-Audio.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -178,7 +186,7 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<key>#PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>#device-id</key>
 				<data>cKEAAA==</data>
@@ -744,7 +752,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1</string>
+				<string>-v alcid=99 keepsyms=1 debug=0x100</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
