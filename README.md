@@ -1,6 +1,7 @@
 # i5-10600K ASUS Z490m iGpu opencore hackintosh
 
 ## Opencore 0.6.1 Vanilla
+## MacOS Catalina
 
 ### Hardware
 - Mobo: ASUS Prime Z490m-Plus m-atx (LAN i219v audio ALC887) 
