@@ -1,4 +1,4 @@
-# i5-10600K-ASUS-Z490m-iGpu-opencore-hackintosh
+# i5-10600K ASUS Z490m iGpu opencore hackintosh
 
 ## Opencore 0.6.1 Vanilla
 
@@ -11,6 +11,7 @@
 - PSU: 750W gold 
 - Case: Fractal design Meshify C Mini (micro atx)
 - Case fans: 2x140mm Noctua (front intake), 1x120mm Noctua (rear exhaust)
+- BT Wi-fi Fenvi T919
 
 ### Kexts        
 - Lilu.kext                   
