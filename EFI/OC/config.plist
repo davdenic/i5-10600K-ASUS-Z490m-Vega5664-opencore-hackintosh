@@ -885,7 +885,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>alcid=7</string>
+				<string>alcid=3 keepsyms=1 igfxonln=1 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
@@ -954,7 +954,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02748401GUJG36AD</string>
 			<key>ROM</key>
 			<data>
 			ESIzRFVm
@@ -962,11 +962,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02VR8ZWHX87</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>088E7756-10A7-43A7-8B9C-DF54FDCC7654</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
