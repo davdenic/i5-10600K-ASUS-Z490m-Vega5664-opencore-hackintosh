@@ -5,8 +5,8 @@
 
 ### Hardware
 - Mobo: ASUS Prime Z490m-Plus m-atx (LAN i219v audio ALC887) 
-- CPU: intel i5 10600k 4.1GHz Comet lake iGPU UHD630 -(integrated GPU, no external GPU)-
-- GPU: Asus Strix Arez Vega 56 
+- CPU: intel i5 10600k 4.1GHz Comet lake iGPU UHD630
+- GPU: ASUS Arez Strix Radeon RX VEGA 56 OC
 - CPU Cooler: Noctua 15S
 - RAM: 32GB (2x16) 3200GHz g.skill 
 - SSD: NVME Crucial P1 1TB 
