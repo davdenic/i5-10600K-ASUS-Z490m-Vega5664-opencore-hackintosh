@@ -181,7 +181,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>AwDImw==</data>
 				<key>device-id</key>
 				<data>mz4AAA==</data>
 				<key>framebuffer-con0-busid</key>
@@ -741,10 +741,10 @@
 			<data></data>
 			<key>PasswordSalt</key>
 			<data></data>
-			<key>SecureBootModel</key>
-			<string>Disabled</string>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
+			<key>SecureBootModel</key>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -773,7 +773,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=7</string>
+				<string>alcid=3 keepsyms=1 igfxonln=1 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -840,17 +840,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02952902QXLNV9UE</string>
+			<string>C02827700J9JG36FB</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZW094JV3Q</string>
+			<string>C02X1WZ4HX87</string>
 			<key>SystemUUID</key>
-			<string>04DCDA87-C6BD-4F7B-A124-6ABCC6EA8EA4</string>
+			<string>0D4FB14F-DA28-4F1A-B16C-91D20A8BAC94</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
