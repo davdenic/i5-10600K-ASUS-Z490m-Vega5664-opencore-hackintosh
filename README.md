@@ -1,4 +1,4 @@
-# i5-10600K ASUS Z490m iGpu opencore hackintosh
+# i5-10600K ASUS Z490m Vega56/64  opencore hackintosh
 
 ## Opencore 0.6.1 Vanilla
 ## MacOS Catalina
@@ -22,11 +22,11 @@
 - SMCSuperIO.kext       
 - WhateverGreen.kext
 - AppleALC.kext   
-- IntelMausiEthernet.kext 
-- USBInjectAll.kext
+- IntelMausiEthernet.kext (Meize)
+- USBPorts.kext (manual mapping)
 
 ### SSDT
 SSDT-Basic from MacOS86.it
 
 ### SMBIOS 
-iMacPro1,1
+iMacPro1,1 (to use Vega56/64)
