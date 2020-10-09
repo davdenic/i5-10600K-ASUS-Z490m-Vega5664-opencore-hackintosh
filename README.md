@@ -1,5 +1,7 @@
 # i5-10600K ASUS Z490m Vega56/64  opencore hackintosh
 
+![MacOs Catalina](system.png)
+
 ## Opencore 0.6.1 Vanilla
 ## MacOS Catalina
 
