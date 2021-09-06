@@ -6,5 +6,7 @@
 .Trashes/
 .fseventsd/
 FOUND.000/
+EFI.zip
+ZZZ_backup/
 !EFI
 !system.png
