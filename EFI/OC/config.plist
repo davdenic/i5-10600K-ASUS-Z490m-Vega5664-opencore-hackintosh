@@ -727,7 +727,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=3 keepsyms=1 igfxonln=1</string>
+				<string>alcid=7 keepsyms=1 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>/wcAAA==</data>
 				<key>prev-lang:kbd</key>
