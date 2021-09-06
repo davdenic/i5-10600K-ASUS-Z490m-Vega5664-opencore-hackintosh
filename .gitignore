@@ -1,5 +1,10 @@
 .DS_Store
 **/.DS_Store
-*
+._*
+**/._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+FOUND.000/
 !EFI
 !system.png
