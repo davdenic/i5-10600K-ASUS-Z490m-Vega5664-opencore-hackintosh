@@ -2,7 +2,7 @@
 
 ![MacOs Catalina](system.png)
 
-## Opencore 0.6.2 Vanilla
+## Opencore 0.7.2 Vanilla
 ## MacOS Catalina
 
 ### Hardware
@@ -28,7 +28,7 @@
 - USBPorts.kext (manual mapping)
 
 ### SSDT
-SSDT-Basic from MacOS86.it
+SSDT-Basic v2 from MacOS86.it
 
 ### SMBIOS 
 iMacPro1,1 (to use Vega56/64)
