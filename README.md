@@ -2,7 +2,7 @@
 
 ![MacOs Catalina](system.png)
 
-## Opencore 0.7.2 Vanilla
+## Opencore 0.7.3 Vanilla
 ## MacOS Catalina
 
 ### Hardware
