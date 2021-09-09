@@ -5,7 +5,7 @@
 .Spotlight-V100/
 .Trashes/
 .fseventsd/
-FOUND.000/
+FOUND.*
 EFI.zip
 ZZZ_backup/
 !EFI
