@@ -1108,14 +1108,6 @@
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>ExFatDxeLegacy.efi</string>
-			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
