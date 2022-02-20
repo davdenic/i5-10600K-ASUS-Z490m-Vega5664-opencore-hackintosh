@@ -3,7 +3,7 @@
 ![MacOs Catalina](system.png)
 
 ## Opencore 0.7.3 Vanilla
-## MacOS Catalina
+## MacOS Big Sur
 
 ### Hardware
 - Mobo: ASUS Prime Z490m-Plus m-atx (LAN i219v audio ALC887) 
