@@ -1,8 +1,8 @@
 # i5-10600K ASUS Z490m Vega56/64  opencore hackintosh
 
-![MacOs Catalina](system.png)
+![MacOs Big Sur](system.png)
 
-## Opencore 0.7.3 Vanilla
+## Opencore 0.8.0 Vanilla
 ## MacOS Big Sur
 
 ### Hardware
@@ -31,4 +31,4 @@
 SSDT-Basic v2 from MacOS86.it
 
 ### SMBIOS 
-iMacPro1,1 (to use Vega56/64)
+iMacPro1,1 (to benefit native Vega56/64)
